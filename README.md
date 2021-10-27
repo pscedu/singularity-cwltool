@@ -6,6 +6,8 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-cwltool)
 
 # singularity-cwltool
+<img src="https://www.commonwl.org/CWL-Logo-Header.png" />
+
 Singularity recipe for [cwltool](https://www.commonwl.org/).
 
 ## Installing the container on Bridges 2
