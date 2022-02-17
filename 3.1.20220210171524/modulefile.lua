@@ -26,6 +26,7 @@ To unload the module type
 Tools included in this module are
 
 * cwltool
+* cwl-runner
 ]])
 
 local package = "cwltool"
