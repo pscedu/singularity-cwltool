@@ -12,4 +12,4 @@ From: debian:latest
 %post
     apt update
     apt install -y python3 python3-pip
-    pip3 install cwltool==3.1.20220210171524 cwlref-runner
+    pip3 install --break-system-packages cwltool==3.1.20220210171524 cwlref-runner
